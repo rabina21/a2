@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    margin-right: 0;
+}
+.top{
+height: 100px;
+width:100%;
+background-color: grey;
+}
+.middle-wrapper{
+    margin: 0;
+}
+
+.first{
+    height: 200px;
+    width:230px;
+    background-color: grey;
+    display: inline-block;
+    margin-right: 100px;
+   
+}
+.second{
+    height: 200px;
+    width:230px;
+    background-color: grey;
+    display: inline-block;
+    margin-right: 100px;
+}
+.third{
+    height: 200px;
+    width:230px;
+    background-color: grey;
+    display: inline-block;
+    margin-right: 100px;
+}
+.fourth{
+    height: 200px;
+    width:230px;
+    background-color: grey;
+    display: inline-block;
+    margin-right: 100px;
+}
+.fifth{
+    height: 200px;
+    width:230px;
+    background-color: grey;
+    display: inline-block;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.sixth{
+    height: 200px;
+    width:230px;
+    background-color: grey;
+    display: inline-block;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+.seventh{
+    height: 200px;
+    width:230px;
+    background-color: grey;
+    display: inline-block;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+.eighth{
+    height: 200px;
+    width:230px;
+    background-color: grey;
+    display: inline-block;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+.bottom{
+    height: 100px;
+    width:100%;
+    background-color: grey;
+
+}
